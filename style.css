@@ -1,3 +1,6 @@
+li {
+    list-style-type: none;
+}
 body {
     margin: 0;
     padding: 0;
@@ -92,6 +95,7 @@ a:hover {
 
 .texture-paper::before {
     background: url("img/texture-paper.png");
+    background-color:rgba(0, 0, 0, .7);
     background-size: 280px 280px;
 }
 
