@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://valsauvage.github.io/Valentinmetz-4-2021-11-30/sitemap.xml
